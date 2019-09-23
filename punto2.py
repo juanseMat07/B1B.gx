@@ -6,7 +6,6 @@ y=1.3
 x1=numpy.array([0.4])
 y1=numpy.array([1.3])
 
-
 z1=x+y
 z2=x1+y1
 
@@ -22,3 +21,4 @@ print "                                    "  ,g1
 print "Resultados operaciones con vectores: " ,z2
 print "                                    "  ,h2
 print "                                    "  ,g2
+
